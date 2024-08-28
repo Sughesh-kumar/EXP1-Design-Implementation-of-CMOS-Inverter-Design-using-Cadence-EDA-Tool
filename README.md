@@ -78,8 +78,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
-
+ ![Screenshot 2024-08-28 155212](https://github.com/user-attachments/assets/501d3585-ea6f-4552-aa0c-fd7ad830c91f)
 
  
 Analog simulation by SPECTRE.
@@ -93,7 +92,7 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
- ![Screenshot 2024-08-28 155212](https://github.com/user-attachments/assets/501d3585-ea6f-4552-aa0c-fd7ad830c91f)
+
 
 
 For Transient Analysis Settings and Output
