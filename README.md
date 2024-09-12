@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Click Check and Save button
 
 
-![Screenshot 2024-08-28 152851](https://github.com/user-attachments/assets/e44efd25-ff7a-4630-9fcf-79a545a9de89)
+![Screenshot 2024-09-12 102727](https://github.com/user-attachments/assets/23898755-3392-45dc-a1ec-a885d8e1d473)
+
 
 
  
@@ -66,8 +67,6 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![Screenshot 2024-08-28 153514](https://github.com/user-attachments/assets/db1bb3ed-0049-45c4-b63a-0aefd062b682)
-
 
 iv)	Creating the new test cell view
 
@@ -78,7 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![Screenshot 2024-08-28 155212](https://github.com/user-attachments/assets/501d3585-ea6f-4552-aa0c-fd7ad830c91f)
+ 
+![Screenshot 2024-09-12 103243](https://github.com/user-attachments/assets/59629805-a7e0-49be-bf92-c70f55056cf7)
 
  
 Analog simulation by SPECTRE.
@@ -97,15 +97,16 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
- 
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+![Screenshot 2024-09-12 103316](https://github.com/user-attachments/assets/73b79cf6-2eb8-4b59-a34b-8b6a3cafd9da)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![Screenshot 2024-09-12 103443](https://github.com/user-attachments/assets/5749ad19-287d-4aef-8df3-7962129a3ebc)
+
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![Screenshot 2024-09-12 103624](https://github.com/user-attachments/assets/6f03c3a9-4d77-4d37-af52-efa7f6d6ad14)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![Screenshot 2024-09-12 103657](https://github.com/user-attachments/assets/d45982e4-e671-4c46-a023-6b82449b9ad0)
+
 
  
 
