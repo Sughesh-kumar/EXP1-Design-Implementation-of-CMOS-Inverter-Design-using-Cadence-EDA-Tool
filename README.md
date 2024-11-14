@@ -79,6 +79,7 @@ Now Symbol generation form appears. Click Ok If No changes required
    - Check for the position of pin side.Prss OK
    - Edit for the shape by Create-Shape-Choose required options to edit.
 
+![Screenshot 2024-11-14 093807](https://github.com/user-attachments/assets/b6e74471-be24-4275-a1d5-da1291fe783a)
 
 
 iv)	Creating the new test cell view
